@@ -1,0 +1,16 @@
+# y_offset: 33cm 
+
+landmark_pose_estimation_node:
+  silo_1: [1.5, -3.90]
+  silo_2: [0.75, -3.90]
+  silo_3: [0.0, -3.90]
+  silo_4: [-0.75, -3.90]
+  silo_5: [-1.5, -3.90]
+
+  area3_reset: [0.75, -2.60]
+
+  cross_junction: [ 0.0, -2.42]
+
+  x_horizontal_line: [0.00000, -2.42]
+  y_vertical_line:   [2.0, 0.0]
+
